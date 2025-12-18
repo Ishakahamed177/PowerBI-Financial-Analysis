@@ -41,4 +41,4 @@ Trends<img width="1372" height="770" alt="Screenshot 2025-12-18 113305" src="htt
 - Screenshot folder contains dashboard previews
 
 ## Dashboard
-[Live Dashboard:](https://app.powerbi.com/view?r=eyJrIjoiYmE5NWYyOTYtNDMyYy00M2RhLTg2MjMtMzI5OWYyNzZhNzlhIiwidCI6ImEzNWJjY2IxLTc4M2UtNDg3Mi1hOGMyLTM5YmJiYmY1ZGNmNiJ9&pageName=28c8e9a28dc84365780c)
+[view My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmE5NWYyOTYtNDMyYy00M2RhLTg2MjMtMzI5OWYyNzZhNzlhIiwidCI6ImEzNWJjY2IxLTc4M2UtNDg3Mi1hOGMyLTM5YmJiYmY1ZGNmNiJ9&pageName=28c8e9a28dc84365780c)
