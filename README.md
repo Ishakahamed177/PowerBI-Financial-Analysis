@@ -29,9 +29,10 @@ The analysis covers multiple years of financial data and focuses on revenue perf
 - Dataset used for analytical and educational purposes
 
 ## Dashboard Screenshots
-![Overview](<img width="1324" height="740" alt="Screenshot 2025-12-18 113150" src="https://github.com/user-attachments/assets/56f44e9a-8c05-47f8-a8ae-c7783e0929c4" />)
-![KPIs](<img width="1371" height="772" alt="Screenshot 2025-12-18 113237" src="https://github.com/user-attachments/assets/41106626-28f4-4e5d-94e4-7bc86bf83b60" />)
-![Trends](<img width="1372" height="770" alt="Screenshot 2025-12-18 113305" src="https://github.com/user-attachments/assets/1973d84b-7e3e-466f-a64b-a4e8a174de89" />)
+<img width="1382" height="772" alt="Screenshot 2025-12-18 113345" src="https://github.com/user-attachments/assets/7e25a1d7-7573-40d7-bb65-b3f8678051fd" />
+<img width="1372" height="770" alt="Screenshot 2025-12-18 113305" src="https://github.com/user-attachments/assets/0ae70c3f-d077-419a-b4ae-2b831fdc87e5" />
+<img width="1371" height="772" alt="Screenshot 2025-12-18 113237" src="https://github.com/user-attachments/assets/a44768f4-7806-4c7b-bc4a-7e55d1f13cd7" />
+<img width="1324" height="740" alt="Screenshot 2025-12-18 113150" src="https://github.com/user-attachments/assets/540847be-b42d-4262-8975-1a240b7adeea" />
 
 ## Project Files
 - .pbix file contains the complete Power BI dashboard
