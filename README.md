@@ -29,7 +29,7 @@ The analysis covers multiple years of financial data and focuses on revenue perf
 - Dataset used for analytical and educational purposes
 
 ## Dashboard Screenshots
-![Overview]<img width="1324" height="740" alt="Screenshot 2025-12-18 113150" src="https://github.com/user-attachments/assets/c16b74d9-6395-46fd-b56b-cf9059b96a29" />
+Overview<img width="1324" height="740" alt="Screenshot 2025-12-18 113150" src="https://github.com/user-attachments/assets/c16b74d9-6395-46fd-b56b-cf9059b96a29" />
 ![KPIs]<img width="1371" height="772" alt="Screenshot 2025-12-18 113237" src="https://github.com/user-attachments/assets/26ad1292-5922-48e3-a08e-d0a6fee9cb0f" />
 ![Trends]<img width="1372" height="770" alt="Screenshot 2025-12-18 113305" src="https://github.com/user-attachments/assets/869b8e8c-a281-4792-a8f6-17a00ce21ded" />
 <img width="1382" height="772" alt="Screenshot 2025-12-18 113345" src="https://github.com/user-attachments/assets/83dfce9d-06b0-4a1b-87b0-13cd7c0445fa" />
